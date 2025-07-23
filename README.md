@@ -1,6 +1,6 @@
 # Amazon-Prime-EDA
 
-# https://youtu.be/pnpCrS8msN4?si=DKRogYB4vIuijbEo
+Youtube: https://www.youtube.com/watch?v=pnpCrS8msN4
 
 The goal of this project is to perform a comprehensive Exploratory Data Analysis on Amazon Prime using two datasets that includes detailed information about movies and shows available on the platform. The analysis aims to uncover insights about content trends, audience preferences, platform strategy, and factors influencing content performance.
 
